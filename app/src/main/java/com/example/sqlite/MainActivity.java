@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Cantidad, Precio;
     Spinner Categoria, Ubicacion;
 
-
+    //LINK GITHUB https://github.com/Sunglose/Certamen4 AQUI TAAAAAA.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
